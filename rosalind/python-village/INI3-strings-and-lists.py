@@ -1,0 +1,2 @@
+teststr = "DQe5WLpAMsriumSkWMxBLsBg4qkQlSgnUBD2cgkFShdjfbyaJNMoQW0NNkBbtisQlWytjb75USittaaGX12ZY9tnaYY6J73pfdHmbJjyfhLKcyKammon3WyEZFXcXJMPQdXFuid2T8BBqEiUaao8Am35ryB9WTCKQ."
+print(teststr[73:77+1] + ' ' + teststr[111:115+1])
